@@ -6,10 +6,10 @@ The above repository contains only one way of count, but I have modified it to c
 
 Here are some snipshots from output:
 
-![counting2](https://github.com/lentilrice00/Vehicle-Detection-Classification-and-Counting/assets/173018533/02e1052a-ab2f-4692-b606-9fa0cbc37dd5)
+<img width="1013" height="530" alt="image" src="https://github.com/user-attachments/assets/32abb676-760c-4ed5-9e91-6d42a4ff5f2c" />
 Fig: Output for vehicles counting and classification when vehicles are moving in one direction
 
-![counting](https://github.com/lentilrice00/Vehicle-Detection-Classification-and-Counting/assets/173018533/9f936eb7-9703-4f0d-aee8-8889447d7747)
+<img width="1016" height="497" alt="image" src="https://github.com/user-attachments/assets/89d9ad8c-3f32-4276-8a2c-3ad0b57889fa" />
 Fig: Output for vehicles counting and classification when vehicles are moving in both direction
 
 To learn more about yolov9, refer to this repository: https://github.com/WongKinYiu/yolov9
